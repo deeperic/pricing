@@ -1,4 +1,4 @@
-# A tading algo project
+# A trading algo project
 
 TWAPAlgo - an implentation of TWAP Algo
 
